@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "file-calender" extension will be documented in this file.
+## [1.0.0] - 2024-09-27
+### Added
+- 初回リリース
+- ファイル更新カレンダー機能を実装
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [1.0.3]
+- アイコン画像を設定

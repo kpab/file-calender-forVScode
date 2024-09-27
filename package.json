@@ -2,7 +2,8 @@
   "name": "file-update-calendar",
   "displayName": "File Update Calendar",
   "description": "A VS Code extension to display file updates in a calendar",
-  "version": "1.0.1",
+  "version": "1.0.3",
+  "icon": "images/icon.png",
   "publisher": "pab",
   "engines": {
     "vscode": "^1.75.0"
